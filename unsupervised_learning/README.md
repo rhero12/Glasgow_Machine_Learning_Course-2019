@@ -1,6 +1,6 @@
 # Unsupervised Learning
 
-For the unsupervised lectures the only required Python packages are:
+For the unsupervised exercises the only required Python packages are:
 
 * `scikit-learn`
 * `numpy`
